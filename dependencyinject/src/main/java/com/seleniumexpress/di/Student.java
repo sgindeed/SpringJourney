@@ -16,6 +16,7 @@ public class Student {
 		this.studentName = studentName;
 	}
 */
+	//CONSTRUCTOR METHOD
 
 	public Student(int id, String studentName) {
 		
